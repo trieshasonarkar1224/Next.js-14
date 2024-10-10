@@ -9,13 +9,13 @@ Date:-02/10/2024
 <br>
 
 Enlisted below are the things I learnt today. 👇
-<b
+<br>
 
 Chapter One - Getting Started 
 <br>
 
 
-<
+
 
 Chapter Two - CS Styling 
 <br>
@@ -27,7 +27,7 @@ Chapter Two - CS Styling
   Creating and using CSS modules for component-specific styling.<br>
   Using the clsx library to conditionally apply class names based on state or conditions.<Br>
 
-<b
+
 
 Chapter Three - Optimizing Fonts and Images
 <br>
@@ -37,7 +37,7 @@ Chapter Three - Optimizing Fonts and Images
  Adding a primary Google font to the project and applying it globally.<br>
  Adding a secondary font for specific elements and verifying the changes in the browser.<br>
  Optimizing images using the next/image component to automatically handle various optimizations.
-<
+
 
 Chapter Four - Creating Layouts and Pages
 <br>
@@ -97,6 +97,10 @@ Chapter Eight - Static and Dynamic Rendering
   <br>
   Shows how the Vercel Postgres SDK protects against SQL injections.
   <br>
+
+
+  Date:-10/10/2024
+
   
   Chapter Nine - Streaming
 
